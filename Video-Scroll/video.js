@@ -1,3 +1,4 @@
+// 비디오 자체를 가져와 사용하는 예시
 const video = document.querySelector('.sample-video');
 let videoDu;
 
